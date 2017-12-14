@@ -1,7 +1,6 @@
 <html>
   <?php
-  a = "5";
-  echo $a;
+  <h1>hello</h1>
   echo "hellow";
     ?>
 </html>
